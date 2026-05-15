@@ -1,0 +1,20 @@
+# Browser Harness
+
+> Browser Harness is a thin, editable CDP harness that connects coding agents to a real browser. It is useful for browser automation tasks where the agent needs direct control, persistent sessions, and room to write missing helpers during execution.
+
+## Primary Links
+
+- GitHub repo: https://github.com/browser-use/browser-harness
+- Install guide: https://github.com/browser-use/browser-harness/blob/main/install.md
+- Usage skill: https://github.com/browser-use/browser-harness/blob/main/SKILL.md
+- Domain skills: https://github.com/browser-use/browser-harness/tree/main/agent-workspace/domain-skills
+- Browser Use Cloud: https://cloud.browser-use.com
+
+## Browser Use Box
+
+- Browser Use Box repo: https://github.com/browser-use/bux
+- Browser Use Box product page: https://browser-use.com/bux
+- Browser Use Box TikTok demo: https://www.tiktok.com/@browser_use/video/7639824093721758989
+
+Browser Use Box is the always-on deployment path for Browser Harness style work: a Linux box agent with Telegram control and a persistent Browser Use Cloud browser.
+
